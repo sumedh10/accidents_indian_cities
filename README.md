@@ -1,2 +1,4 @@
-# accidents_indian_cities
-Shiny app that explores accidents in selected Indian cities between 2011 and 2015
+# Accidents in selected Indian cities
+
+Data Source: https://data.gov.in/catalog/road-accidents-profile-selected-cities 
+Shiny app: https://sumedh.shinyapps.io/indian_cities_accidents
